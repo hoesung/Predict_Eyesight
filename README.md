@@ -11,10 +11,14 @@
 ## 환경설정
 모든 자료는 `macos` 에서 만들어졌습니다. 필수적인 라이브러리의 버전을 설치 후 확인 바랍니다.
 
-> Python version: 3.7.0 (default, Jun 28 2018, 07:39:16) 
+> Python version: 3.7.0 (default, Jun 28 2018, 07:39:16)
+
 > pandas version: 1.0.3
+
 > matplotlib version: 3.1.3
+
 > NumPy version: 1.18.1
+
 > scikit-learn version: 0.22.1
 
 ```bash
